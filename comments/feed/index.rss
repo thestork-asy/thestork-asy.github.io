@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments for The Stork</title>
+	<atom:link href="http://www.whatisthestork.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.whatisthestork.com</link>
+	<description>Deliver the package. Change your life.</description>
+	<lastBuildDate>Thu, 24 Mar 2011 12:12:01 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>Comment on Proof by Drey</title>
+		<link>http://www.whatisthestork.com/2011/03/19/proof/#comment-4</link>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+		<pubDate>Thu, 24 Mar 2011 12:12:01 +0000</pubDate>
+		<guid isPermaLink="false">http://www.whatisthestork.com/2011/03/19/proof/#comment-4</guid>
+		<description><![CDATA[The idea is that when the ledger is full, the last person can mail in their copy in exchange for a new one. I can then update the map by using the ledger. Packages generate tracking numbers, part of which is a ZIP code. I can use the ZIP code on the map.]]></description>
+		<content:encoded><![CDATA[<p>The idea is that when the ledger is full, the last person can mail in their copy in exchange for a new one. I can then update the map by using the ledger. Packages generate tracking numbers, part of which is a ZIP code. I can use the ZIP code on the map.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Proof by Steve</title>
+		<link>http://www.whatisthestork.com/2011/03/19/proof/#comment-3</link>
+		<dc:creator><![CDATA[Steve]]></dc:creator>
+		<pubDate>Thu, 24 Mar 2011 03:54:47 +0000</pubDate>
+		<guid isPermaLink="false">http://www.whatisthestork.com/2011/03/19/proof/#comment-3</guid>
+		<description><![CDATA[Nevermind I see it.  Well I hope there is a note or a link or something in the book.  I&#039;ll definitely remind people to update it but I can&#039;t vouch for when the book leaves my circle.]]></description>
+		<content:encoded><![CDATA[<p>Nevermind I see it.  Well I hope there is a note or a link or something in the book.  I&#8217;ll definitely remind people to update it but I can&#8217;t vouch for when the book leaves my circle.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Proof by Steve</title>
+		<link>http://www.whatisthestork.com/2011/03/19/proof/#comment-2</link>
+		<dc:creator><![CDATA[Steve]]></dc:creator>
+		<pubDate>Thu, 24 Mar 2011 03:52:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.whatisthestork.com/2011/03/19/proof/#comment-2</guid>
+		<description><![CDATA[Will there be a way for future owners of the book to update the map?]]></description>
+		<content:encoded><![CDATA[<p>Will there be a way for future owners of the book to update the map?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,776 @@
+Uri: http://www.whatisthestork.com/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/wp-content/themes/The_Stork/style.css
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-content\themes\The_Stork\style.css
+Content Type: text/css
+
+Uri: http://www.whatisthestork.com/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/comments/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\comments\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.2
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: http://www.whatisthestork.com/wp-json/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\index.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/xmlrpc.php?rsd
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\xmlrpc.xml
+Content Type: text/xml
+
+Uri: http://www.whatisthestork.com/wp-includes/wlwmanifest.xml
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/news/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\news\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/category/the-stork/stork-tales/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\category\the-stork\stork-tales\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/stork-sightings/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\stork-sightings\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/full-ledger/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\full-ledger\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/wallpaper/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wallpaper\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/contact/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\contact\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/wp-includes/js/jquery/jquery.js?ver=1.12.4
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://www.whatisthestork.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://www.whatisthestork.com/wp-content/themes/The_Stork/script.js
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-content\themes\The_Stork\script.js
+Content Type: application/javascript
+
+Uri: http://www.whatisthestork.com/wp-includes/js/comment-reply.min.js?ver=4.9.9
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: http://www.whatisthestork.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.2
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://www.whatisthestork.com/wp-includes/js/wp-embed.min.js?ver=4.9.9
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: http://www.whatisthestork.com/wp-content/themes/The_Stork/images/The-Stork-Background.png
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-content\themes\The_Stork\images\The-Stork-Background.png
+Content Type: image/png
+
+Uri: http://www.whatisthestork.com/wp-content/themes/The_Stork/images/button.png
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-content\themes\The_Stork\images\button.png
+Content Type: image/png
+
+Uri: http://www.whatisthestork.com/wp-content/themes/The_Stork/images/vmenuitem.png
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-content\themes\The_Stork\images\vmenuitem.png
+Content Type: image/png
+
+Uri: http://www.whatisthestork.com/wp-content/themes/The_Stork/images/vsubitem.gif
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-content\themes\The_Stork\images\vsubitem.gif
+Content Type: image/gif
+
+Uri: http://www.whatisthestork.com/wp-content/themes/The_Stork/images/blockcontentbullets.png
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-content\themes\The_Stork\images\blockcontentbullets.png
+Content Type: image/png
+
+Uri: http://www.whatisthestork.com/wp-content/themes/The_Stork/images/post_s.png
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-content\themes\The_Stork\images\post_s.png
+Content Type: image/png
+
+Uri: http://www.whatisthestork.com/wp-content/themes/The_Stork/images/post_h.png
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-content\themes\The_Stork\images\post_h.png
+Content Type: image/png
+
+Uri: http://www.whatisthestork.com/wp-content/themes/The_Stork/images/post_v.png
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-content\themes\The_Stork\images\post_v.png
+Content Type: image/png
+
+Uri: http://www.whatisthestork.com/wp-content/themes/The_Stork/images/postback.png
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-content\themes\The_Stork\images\postback.png
+Content Type: image/png
+
+Uri: http://www.whatisthestork.com/wp-content/themes/The_Stork/images/postquote.png
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-content\themes\The_Stork\images\postquote.png
+Content Type: image/png
+
+Uri: http://www.whatisthestork.com/wp-content/themes/The_Stork/images/sidebarback.gif
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-content\themes\The_Stork\images\sidebarback.gif
+Content Type: image/gif
+
+Uri: http://www.whatisthestork.com/wp-content/themes/The_Stork/images/storklogo.png
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-content\themes\The_Stork\images\storklogo.png
+Content Type: image/png
+
+Uri: http://www.whatisthestork.com/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-content\plugins\contact-form-7\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://www.whatisthestork.com/news/page/2/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\news\page\2\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2015/01/06/james/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2015\01\06\james\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/author/drey/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\author\drey\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2012/06/14/ruthless-diastema-podcast/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2012\06\14\ruthless-diastema-podcast\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2011/07/08/the-stork-has-been-nominated-for-an-ennie-award/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\07\08\the-stork-has-been-nominated-for-an-ennie-award\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2011/06/05/delivery-in-progress/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\06\05\delivery-in-progress\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2011/05/25/stork-wallpaper/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\05\25\stork-wallpaper\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2011/05/19/strangers-on-a-bus/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\05\19\strangers-on-a-bus\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2011/05/15/stork-tales/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\05\15\stork-tales\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2011/04/12/the-stork-has-landed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\04\12\the-stork-has-landed\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2011/03/22/printing-is-underway/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\03\22\printing-is-underway\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2011/03/19/proof/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\03\19\proof\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/wp-content/themes/The_Stork/images/postcommentsicon.png
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-content\themes\The_Stork\images\postcommentsicon.png
+Content Type: image/png
+
+Uri: http://www.whatisthestork.com/files/2011/07/ennie_award_nominee_2011.png
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\files\2011\07\ennie_award_nominee_2011.png
+Content Type: image/png
+
+Uri: http://www.whatisthestork.com/files/2011/05/WhatIsTheStork-1280x800-1024x640.jpg
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\files\2011\05\WhatIsTheStork-1280x800-1024x640.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.whatisthestork.com/files/2011/05/WhatIsTheStork-1280x800-300x187.jpg
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\files\2011\05\WhatIsTheStork-1280x800-300x187.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.whatisthestork.com/files/2011/05/WhatIsTheStork-1280x800.jpg
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\files\2011\05\WhatIsTheStork-1280x800.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.whatisthestork.com/category/the-stork/stork-tales/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\category\the-stork\stork-tales\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/stork-sightings/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\stork-sightings\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2Fstork-sightings%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2Fstork-sightings%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-content/plugins/akismet/_inc/form.js?ver=4.0.7
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-content\plugins\akismet\_inc\form.js
+Content Type: application/javascript
+
+Uri: http://www.whatisthestork.com/full-ledger/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\full-ledger\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2Ffull-ledger%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2Ffull-ledger%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/cdn-cgi/l/email-protection
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/files/2011/03/DeliveryLedger.pdf
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\files\2011\03\DeliveryLedger.pdf
+Content Type: application/pdf
+
+Uri: http://www.whatisthestork.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: http://www.whatisthestork.com/wallpaper/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wallpaper\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2Fwallpaper%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2Fwallpaper%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/files/2011/05/WhatIsTheStork-1024x768.jpg
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\files\2011\05\WhatIsTheStork-1024x768.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.whatisthestork.com/files/2011/05/WhatIsTheStork-1280x1024.jpg
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\files\2011\05\WhatIsTheStork-1280x1024.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.whatisthestork.com/files/2011/05/WhatIsTheStork-1440x900.jpg
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\files\2011\05\WhatIsTheStork-1440x900.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.whatisthestork.com/files/2011/05/WhatIsTheStork-1920x1200.jpg
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\files\2011\05\WhatIsTheStork-1920x1200.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2Fcontact%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2Fcontact%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/files/wpcf7_captcha/1565546904.png
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\files\wpcf7_captcha\1565546904.png
+Content Type: image/png
+
+Uri: http://www.whatisthestork.com/news/page/3/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\news\page\3\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2011/02/26/taking-flight/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\02\26\taking-flight\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2011/02/18/the-stork-needs-your-help/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\02\18\the-stork-needs-your-help\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2011/02/03/shout-outs-to-the-stork-video-supporters/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\02\03\shout-outs-to-the-stork-video-supporters\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2011/01/31/origins-of-the-stork/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\01\31\origins-of-the-stork\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2011/01/29/the-stork-has-launched/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\01\29\the-stork-has-launched\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2011/01/22/on-secrets/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\01\22\on-secrets\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2011/01/15/prepping-for-takeoff/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\01\15\prepping-for-takeoff\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2011/01/12/kickstarted/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\01\12\kickstarted\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2010/03/06/staple/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2010\03\06\staple\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2010/03/05/parties/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2010\03\05\parties\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2015/01/06/james/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2015\01\06\james\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2015%2F01%2F06%2Fjames%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2015%2F01%2F06%2Fjames%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/author/drey/page/2/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\author\drey\page\2\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/author/drey/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\author\drey\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/2012/06/14/ruthless-diastema-podcast/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2012\06\14\ruthless-diastema-podcast\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2012%2F06%2F14%2Fruthless-diastema-podcast%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-12.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2012%2F06%2F14%2Fruthless-diastema-podcast%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-13.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/2011/07/08/the-stork-has-been-nominated-for-an-ennie-award/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\07\08\the-stork-has-been-nominated-for-an-ennie-award\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F07%2F08%2Fthe-stork-has-been-nominated-for-an-ennie-award%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-14.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F07%2F08%2Fthe-stork-has-been-nominated-for-an-ennie-award%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-15.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/2011/06/05/delivery-in-progress/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\06\05\delivery-in-progress\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F06%2F05%2Fdelivery-in-progress%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-16.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F06%2F05%2Fdelivery-in-progress%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-17.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/2011/05/25/stork-wallpaper/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\05\25\stork-wallpaper\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F05%2F25%2Fstork-wallpaper%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-18.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F05%2F25%2Fstork-wallpaper%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-19.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/2011/05/19/strangers-on-a-bus/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\05\19\strangers-on-a-bus\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F05%2F19%2Fstrangers-on-a-bus%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-20.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F05%2F19%2Fstrangers-on-a-bus%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-21.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/2011/05/15/stork-tales/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\05\15\stork-tales\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F05%2F15%2Fstork-tales%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-22.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F05%2F15%2Fstork-tales%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-23.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/2011/04/12/the-stork-has-landed/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\04\12\the-stork-has-landed\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F04%2F12%2Fthe-stork-has-landed%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-24.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F04%2F12%2Fthe-stork-has-landed%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-25.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/2011/03/22/printing-is-underway/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\03\22\printing-is-underway\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F03%2F22%2Fprinting-is-underway%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-26.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F03%2F22%2Fprinting-is-underway%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-27.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/2011/03/19/proof/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\03\19\proof\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F03%2F19%2Fproof%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-28.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F03%2F19%2Fproof%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-29.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/2011/03/19/proof/?replytocom=2
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\03\19\proof\index-1.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2011/03/19/proof/?replytocom=3
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\03\19\proof\index-2.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2011/03/19/proof/?replytocom=4
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\03\19\proof\index-3.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/cf.errors.css
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: http://www.whatisthestork.com/cdn-cgi/scripts/zepto.min.js
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\scripts\zepto.min.js
+Content Type: application/javascript
+
+Uri: http://www.whatisthestork.com/cdn-cgi/scripts/cf.common.js
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\scripts\cf.common.js
+Content Type: application/javascript
+
+Uri: http://www.whatisthestork.com/2010/03/04/march-marches-on/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2010\03\04\march-marches-on\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2010/02/19/printing-woes/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2010\02\19\printing-woes\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/2011/02/26/taking-flight/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\02\26\taking-flight\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F02%2F26%2Ftaking-flight%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-30.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F02%2F26%2Ftaking-flight%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-31.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/2011/02/18/the-stork-needs-your-help/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\02\18\the-stork-needs-your-help\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F02%2F18%2Fthe-stork-needs-your-help%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-32.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F02%2F18%2Fthe-stork-needs-your-help%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-33.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/2011/02/03/shout-outs-to-the-stork-video-supporters/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\02\03\shout-outs-to-the-stork-video-supporters\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F02%2F03%2Fshout-outs-to-the-stork-video-supporters%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-34.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F02%2F03%2Fshout-outs-to-the-stork-video-supporters%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-35.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/2011/01/31/origins-of-the-stork/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\01\31\origins-of-the-stork\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F01%2F31%2Forigins-of-the-stork%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-36.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F01%2F31%2Forigins-of-the-stork%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-37.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/2011/01/29/the-stork-has-launched/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\01\29\the-stork-has-launched\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F01%2F29%2Fthe-stork-has-launched%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-38.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F01%2F29%2Fthe-stork-has-launched%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-39.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/2011/01/22/on-secrets/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\01\22\on-secrets\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F01%2F22%2Fon-secrets%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-40.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F01%2F22%2Fon-secrets%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-41.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/2011/01/15/prepping-for-takeoff/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\01\15\prepping-for-takeoff\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F01%2F15%2Fprepping-for-takeoff%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-42.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F01%2F15%2Fprepping-for-takeoff%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-43.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/2011/01/12/kickstarted/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2011\01\12\kickstarted\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F01%2F12%2Fkickstarted%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-44.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2011%2F01%2F12%2Fkickstarted%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-45.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/2010/03/06/staple/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2010\03\06\staple\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2010%2F03%2F06%2Fstaple%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-46.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2010%2F03%2F06%2Fstaple%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-47.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/2010/03/05/parties/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2010\03\05\parties\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2010%2F03%2F05%2Fparties%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-48.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2010%2F03%2F05%2Fparties%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-49.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/author/drey/page/3/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\author\drey\page\3\index.html
+Content Type: text/html
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-300.eot
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-300.eot?
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-300.woff
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-300.woff
+Content Type: application/font-woff
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-300.ttf
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-300.bin
+Content Type: application/octet-stream
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-300.svg
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-300.svg
+Content Type: image/svg+xml
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-400.eot
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-400.eot?
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-400.woff
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-400.woff
+Content Type: application/font-woff
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-400.ttf
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-400.bin
+Content Type: application/octet-stream
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-400.svg
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-400.svg
+Content Type: image/svg+xml
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-600.eot
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-600.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-600.eot?
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-600-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-600.woff
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-600.woff
+Content Type: application/font-woff
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-600.ttf
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-600.bin
+Content Type: application/octet-stream
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-600.svg
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-600.svg
+Content Type: image/svg+xml
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-700.eot
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-700.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-700.eot?
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-700-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-700.woff
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-700.woff
+Content Type: application/font-woff
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-700.ttf
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-700.bin
+Content Type: application/octet-stream
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-700.svg
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-700.svg
+Content Type: image/svg+xml
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-300i.eot
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-300i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-300i.eot?
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-300i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-300i.woff
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-300i.woff
+Content Type: application/font-woff
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-300i.ttf
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-300i.bin
+Content Type: application/octet-stream
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-300i.svg
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-300i.svg
+Content Type: image/svg+xml
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-400i.eot
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-400i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-400i.eot?
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-400i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-400i.woff
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-400i.woff
+Content Type: application/font-woff
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-400i.ttf
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-400i.bin
+Content Type: application/octet-stream
+
+Uri: http://www.whatisthestork.com/cdn-cgi/styles/fonts/opensans-400i.svg
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\styles\fonts\opensans-400i.svg
+Content Type: image/svg+xml
+
+Uri: http://www.whatisthestork.com/cdn-cgi/images/error_icons.png
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\images\error_icons.png
+Content Type: image/png
+
+Uri: http://www.whatisthestork.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: http://www.whatisthestork.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: http://www.whatisthestork.com/2010/03/04/march-marches-on/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2010\03\04\march-marches-on\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2010%2F03%2F04%2Fmarch-marches-on%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-50.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2010%2F03%2F04%2Fmarch-marches-on%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-51.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/2010/02/19/printing-woes/feed/
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\2010\02\19\printing-woes\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2010%2F02%2F19%2Fprinting-woes%2F
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-52.json
+Content Type: application/json
+
+Uri: http://www.whatisthestork.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.whatisthestork.com%2F2010%2F02%2F19%2Fprinting-woes%2F&
+File Name: D:\Files\zyrain\Drey\cytocopy\www.whatisthestork.com\wp-json\oembed\1.0\embed-53.json
+Content Type: application/json
+
